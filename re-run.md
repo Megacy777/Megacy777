@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [X🐦](https://twitter.com/FFootwizard)
 - ⚡ Fun fact: ...The `wrong` right that's how u get there
 
+### My Contribution Status
 
+![PD's github stats](https://github-readme-stats.vercel.app/api?username=megacy777&show_icons=true&theme=merko&count_private=true)
 
 
 
