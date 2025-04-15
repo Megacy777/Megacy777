@@ -1,6 +1,6 @@
 ### Hello World !👋
 
-My name is **Pius**, `friends` call me  **PD**. I'm a Software Developer✨, SA | BA  enthusiast, and Technical writer. <br>
+My name is **Pius**, `friends` call me  **PD**. I'm a Software Developer✨, SA | BA | CO  enthusiast, and Technical writer. <br>
 I enjoy writing and creating content that is both useful to myself and to others.
 
 
